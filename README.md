@@ -19,7 +19,7 @@
 
 This is Elkin and I am a senior pursuing a bachelors degree in Business Analytics and Information Systems at The University of Iowa.
 
-I'm in the process of looking for a internship this summer to gain real life experience and apply what I've learned here at Iowa. 
+I'm in the process of looking for an internship this summer to gain real life experience and apply what I've learned here at Iowa. 
 
 Some of my hobbies include basketball, disc golf, spikeball, sports betting, and traveling. 
 
@@ -41,10 +41,10 @@ Here is just one of the many waterfalls Iceland has to offer!![Waterfall Picture
 
 ## My Goals for the semester
 
-- Obtain a summer intership
-- Use job/internship fairs to learn about the various positions in the analytics field
-- Be involved in Tippie Tech
-- Have fun and take advantage of my last year at The Univeristy of Iowa
+- Obtain a summer intership.
+- Use job/internship fairs to learn about the various positions in the analytics field.
+- Be involved in Tippie Tech by attending panels and networking with club members.
+- Have fun and take advantage of my last year at The Univeristy of Iowa.
 
 
 
